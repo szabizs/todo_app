@@ -1,0 +1,7 @@
+[2019-03-25 10:49:54,930] - todo_app - DEBUG - Start loading tasks into memory.
+[2019-03-25 10:49:54,941] - todo_app - DEBUG - Loaded a total of 3 tasks into memory.
+[2019-03-25 10:49:54,941] - todo_app - DEBUG - Loading interface.
+[2019-03-25 10:49:54,942] - todo_app - DEBUG - Interface has loaded.
+[2019-03-25 10:49:54,942] - todo_app - DEBUG - Waiting for input from user.
+[2019-03-25 10:50:03,273] - todo_app - DEBUG - Got input [5] from user.
+[2019-03-25 10:50:06,274] - todo_app - DEBUG - Exiting app, setting running to False.
